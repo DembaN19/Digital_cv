@@ -13,7 +13,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Demba Ndiaye"
-PAGE_ICON = ":wave:"
+PAGE_ICON = "🦅"
 NAME = "Demba Ndiaye"
 DESCRIPTION = """
 Data Analyst Junior, assisting enterprises by supporting data-driven decision-making.
